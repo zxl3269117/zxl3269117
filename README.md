@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ziqian Li
 - 👀 I’m interested in snowboarding, baking, and traveling!
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning full stack development
 - 📫 Reach me from LinkedIn.
 
 <!---
