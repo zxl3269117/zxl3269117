@@ -32,6 +32,13 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
+<!-- [![Ziqian Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxl3269117&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
+### My Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xuxiaqing2011)](https://git.io/streak-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxl3269117&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
 <!---
 zxl3269117/zxl3269117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
