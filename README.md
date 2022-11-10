@@ -4,7 +4,7 @@
    <h1>
     Hey there! I'm Ziqian Li
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  
   <div id="badges">
     <a href="(https://www.linkedin.com/in/ziqianli1992)">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,6 +16,7 @@
       <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=#181717" alt="GitHub Badge"/>
     </a>
   </div>
+  </h1>
 </div>
 
 - 💻 I’m a Fullstack Software Engineer
