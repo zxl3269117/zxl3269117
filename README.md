@@ -24,7 +24,7 @@
 - 🏂 Snowboarding enthusiasm. Also love baking 🍪  and traveling ✈️ !
 - 😄 Pronouns: she/her/hers
 
-### Languages & Tools
+## Languages & Tools
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
@@ -48,7 +48,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
-### My Stats
+## My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xuxiaqing2011)](https://git.io/streak-stats)
 
 <!-- For future use -->
