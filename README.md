@@ -1,8 +1,22 @@
-## Hi there! I'm Ziqian Li 👋
-<!-- <h3 align="center">A passionate full stack developer </h3> -->
-[![LinkedIn](https://img.shields.io/badge/ziqianli%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/whitelisab/)](https://www.linkedin.com/in/ziqianli1992)
-[![GitHub](https://img.shields.io/badge/ziqianli%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/whitelisab)](https://github.com/zxl3269117)
-[![Gmail](https://img.shields.io/badge/ziqianli%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:whitelisab@gmail.com)](mailto:zxl239@case.edu)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/DDZUE5g8YgklCgQKaf/giphy.gif" width="500"/>
+  
+   <h1>
+    Hey there! I'm Ziqian Li
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <div id="badges">
+    <a href="(https://www.linkedin.com/in/ziqianli1992)">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:zxl239@case.edu">
+      <img src="https://img.shields.io/badge/gmail%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://github.com/zxl3269117">
+      <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=#181717" alt="GitHub Badge"/>
+    </a>
+  </div>
+</div>
 
 - 💻 I’m a fullstack software engineer
 - 🏂 Snowboarding enthusiasm. Also love baking 🍪  and traveling ✈️ !
@@ -32,10 +46,11 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
-<!-- [![Ziqian Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxl3269117&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 ### My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xuxiaqing2011)](https://git.io/streak-stats)
 
+<!-- For future use -->
+<!-- [![Ziqian Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxl3269117&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxl3269117&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
