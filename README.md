@@ -21,7 +21,7 @@
 
 - 💻 I’m a Fullstack Software Engineer
 - 🌱 Currently working on my portfolio
-- 🏂 Snowboarding enthusiasm. Also love baking 🍪  and traveling ✈️ !
+- 🏂 Snowboarding enthusiasm. Also love gaming 🎮 and traveling ✈️ !
 - 😄 Pronouns: she/her/hers
 
 ## Languages & Tools
