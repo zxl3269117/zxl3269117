@@ -18,7 +18,8 @@
   </div>
 </div>
 
-- 💻 I’m a fullstack software engineer
+- 💻 I’m a Fullstack Software Engineer
+- 🌱 Currently working on my portfolio
 - 🏂 Snowboarding enthusiasm. Also love baking 🍪  and traveling ✈️ !
 - 😄 Pronouns: she/her/hers
 
