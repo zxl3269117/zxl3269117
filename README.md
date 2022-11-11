@@ -49,7 +49,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
 ## My Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xuxiaqing2011)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zxl3269117&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
 
 <!-- For future use -->
 <!-- [![Ziqian Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxl3269117&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
