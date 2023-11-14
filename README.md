@@ -3,36 +3,39 @@
   
    <h1>
     Hey there! I'm Ziqian Li
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+     
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
   <div id="badges">
     <a href="(https://www.linkedin.com/in/ziqianli1992)">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:zxl239@case.edu">
+    <a href="mailto:liziqian1992@gmail.com">
       <img src="https://img.shields.io/badge/gmail%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <a href="https://github.com/zxl3269117">
       <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=#181717" alt="GitHub Badge"/>
     </a>
   </div>
-  </h1>
+
 </div>
 
 - 💻 I’m a Fullstack Software Engineer
-- 🌱 Currently working on my portfolio
+- 🌱 Currently working on projects involve IoT devices
 - 🏂 Snowboarding enthusiasm. Also love gaming 🎮 and traveling ✈️
 - 😄 Pronouns: she/her/hers
 
 ## Languages & Tools
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Flutter](https://img.shields.io/badge/Flutter-color%3D%2302569B?style=flat&logo=flutter&color=%2302569B)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material%20UI-%2320232a.svg?logo=mui&logoColor=#007FFF&style=flat-square)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-squre&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=#1572B6)
 
 ![Node](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Firebase?style=flat&logo=firebase&color=grey)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
